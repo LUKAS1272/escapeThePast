@@ -1,0 +1,9 @@
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/bin/Debug/myFirstGame.dll
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/bin/Debug/myFirstGame.pdb
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/obj/Debug/myFirstGame.csproj.AssemblyReference.cache
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/obj/Debug/myFirstGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/obj/Debug/myFirstGame.AssemblyInfoInputs.cache
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/obj/Debug/myFirstGame.AssemblyInfo.cs
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/obj/Debug/myFirstGame.csproj.CoreCompileInputs.cache
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/obj/Debug/myFirstGame.dll
+/home/lukas1272/Desktop/coding/godot/myFirstGame/.mono/temp/obj/Debug/myFirstGame.pdb
