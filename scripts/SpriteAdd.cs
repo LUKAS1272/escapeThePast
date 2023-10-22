@@ -14,7 +14,6 @@ public class SpriteAdd : Node2D
 			Sprite instance = (Sprite)spriteScene.Instance();
 			instance.Position = mouseClick.Position;
 			AddChild(instance);
-			GD.Print(GetChildCount());
 		}
 	}
 }
