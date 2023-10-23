@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "y/j/zsGlXfMNKZ/NeY5sGEutP4qXvapColi0PM8Nxmga3k8UUEfk5wOqSQAWJd8AQf4zAmE9WtRF/ephbSwP5w==",
+  "dgSpecHash": "jnvyJ+jzqVxyQuZQj3XwcIO7eZPKhig1O2GA8F31FOHWS5Di+o493koIsTIB66ANAfbLBHhreeSL/2LNQwJWWQ==",
   "success": true,
   "projectFilePath": "/home/lukas1272/Desktop/coding/godot/escapeThePast/myFirstGame.csproj",
   "expectedPackageFiles": [
-    "/home/lukas1272/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
-    "/home/lukas1272/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+    "/home/lukas1272/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/lukas1272/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }

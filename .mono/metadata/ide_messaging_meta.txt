@@ -1,2 +1,2 @@
-﻿35313
-/media/lukas1272/Data 2/Godot-3.5.3/Godot_v3.5.3-stable_mono_x11.64
+﻿42975
+/home/lukas1272/Godot-3.5.3/Godot_v3.5.3-stable_mono_x11.64

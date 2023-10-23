@@ -31,5 +31,5 @@ margin_right = 500.0
 margin_bottom = 500.0
 custom_constants/vseparation = 0
 custom_constants/hseparation = 0
-columns = 20
+columns = 2
 script = ExtResource( 1 )
