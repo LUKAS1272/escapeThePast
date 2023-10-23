@@ -1,19 +1,35 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://scripts/gridFiller.cs" type="Script" id=1]
 [ext_resource path="res://scripts/SpriteAdd.cs" type="Script" id=2]
 
+[sub_resource type="StyleBoxFlat" id=1]
+bg_color = Color( 0, 0, 0, 1 )
+
 [node name="mainScene" type="Node2D"]
 script = ExtResource( 2 )
 
-[node name="GridContainer" type="GridContainer" parent="."]
+[node name="PuzzleUI" type="Control" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = 1920.0
+margin_bottom = 1080.0
+
+[node name="Background" type="Panel" parent="PuzzleUI"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_styles/panel = SubResource( 1 )
+
+[node name="PuzzleWindow" type="GridContainer" parent="PuzzleUI"]
 anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
-margin_left = 460.0
-margin_top = 40.0
-margin_right = 1460.0
-margin_bottom = 1040.0
-columns = 5
+margin_left = -500.0
+margin_top = -500.0
+margin_right = 500.0
+margin_bottom = 500.0
+custom_constants/vseparation = 0
+custom_constants/hseparation = 0
+columns = 20
 script = ExtResource( 1 )
